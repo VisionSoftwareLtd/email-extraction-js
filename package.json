@@ -1,0 +1,19 @@
+{
+  "name": "email-extraction-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VisionSoftwareLtd/email-extraction-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VisionSoftwareLtd/email-extraction-js/issues"
+  },
+  "homepage": "https://github.com/VisionSoftwareLtd/email-extraction-js#readme"
+}
